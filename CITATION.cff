@@ -5,7 +5,7 @@ authors:
   given-names: "Jieyan"
 - family-names: "Kang"
   given-names: "Emily L."
-title: "A Bayesian Joint Hierarchical Spatial Model for Survival and Durantion Data"
+title: "A Bayesian Joint Hierarchical Spatial Model for Survival and Duration Data"
 version: 1.0.0
 date-released: 2022-06-16
 url: "https://github.com/emilystat/JointSurvivalDurationModeling"
